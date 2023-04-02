@@ -1,0 +1,47 @@
+#编写配置项
+app:
+  name: Lession07-yml
+  owner: anze
+  port: 7777
+
+spring:
+  config:
+    import: conf/db.yml,conf/redis.yml
+  #激活某个配置文件
+  profiles:
+    active: dev
+
+myapp:
+  name: Lession07-yml
+  owner: anze2
+  port: 666
+  security:
+    username: root
+    password: 123456
+
+security:
+  username: root
+  password: 123456
+
+#配置集合
+#1.数组和List一样，使用“-”表示一个成员
+names:
+  - Lisi
+  - Zhangsan
+
+servers:
+  - title: 华北服务器
+    ip: 202.12.38.7
+  - title: 西南服务器
+    ip: 106.90.77.777
+
+#Map<String,User> users
+users:
+  user1:
+    name: 张三
+    sex: 男
+    age: 22
+  user2:
+    name: 李四
+    sex: 男
+    age: 17

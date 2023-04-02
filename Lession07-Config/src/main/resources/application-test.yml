@@ -1,0 +1,7 @@
+myapp:
+  memo: 这是测试的配置文件
+
+spring:
+  config:
+    activate:
+      on-profile: test

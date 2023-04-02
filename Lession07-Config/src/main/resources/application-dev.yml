@@ -1,0 +1,7 @@
+myapp:
+  memo: 这是开发环境配置文件
+
+spring:
+  config:
+    activate:
+      on-profile: dev
