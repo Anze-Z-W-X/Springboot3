@@ -16,6 +16,7 @@
         <module name="Lession07-Config" />
         <module name="Lession04-Single" />
         <module name="findDependency02" />
+        <module name="Lession09-JdbdTpl" />
       </profile>
     </annotationProcessing>
   </component>
@@ -28,6 +29,7 @@
       <module name="Lession06-package" options="-parameters" />
       <module name="Lession07-Config" options="-parameters" />
       <module name="Lession08-aop" options="-parameters" />
+      <module name="Lession09-JdbdTpl" options="-parameters" />
       <module name="findDependency02" options="-parameters" />
     </option>
   </component>
