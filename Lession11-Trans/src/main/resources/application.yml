@@ -1,0 +1,3 @@
+spring:
+  config:
+    import: mybatis_datasource/m_d_application.yml

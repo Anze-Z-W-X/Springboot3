@@ -8,15 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Lession02-project" />
-        <module name="Lession01-feature" />
         <module name="Lession03-Project" />
         <module name="Lession05-Crm" />
         <module name="Lession08-aop" />
         <module name="Lession06-package" />
-        <module name="Lession07-Config" />
-        <module name="Lession04-Single" />
         <module name="findDependency02" />
         <module name="Lession09-JdbdTpl" />
+        <module name="Lession11-Trans" />
+        <module name="Lession12-quick-web" />
+        <module name="Lession10-Mybatis" />
+        <module name="Lession01-feature" />
+        <module name="Lession07-Config" />
+        <module name="Lession04-Single" />
       </profile>
     </annotationProcessing>
   </component>
@@ -30,6 +33,9 @@
       <module name="Lession07-Config" options="-parameters" />
       <module name="Lession08-aop" options="-parameters" />
       <module name="Lession09-JdbdTpl" options="-parameters" />
+      <module name="Lession10-Mybatis" options="-parameters" />
+      <module name="Lession11-Trans" options="-parameters" />
+      <module name="Lession12-quick-web" options="-parameters" />
       <module name="findDependency02" options="-parameters" />
     </option>
   </component>

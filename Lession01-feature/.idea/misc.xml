@@ -14,6 +14,9 @@
         <option value="$PROJECT_DIR$/../Lession08-aop/pom.xml" />
         <option value="$PROJECT_DIR$/../findDependency02/pom.xml" />
         <option value="$PROJECT_DIR$/../Lession09-JdbdTpl/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lession10-Mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lession11-Trans/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lession12-quick-web/pom.xml" />
       </list>
     </option>
   </component>
