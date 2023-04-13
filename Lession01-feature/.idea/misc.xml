@@ -17,6 +17,9 @@
         <option value="$PROJECT_DIR$/../Lession10-Mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/../Lession11-Trans/pom.xml" />
         <option value="$PROJECT_DIR$/../Lession12-quick-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lession13-ServletFilter/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lession14-WebMvcConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/../Lession15-UploadFiles/pom.xml" />
       </list>
     </option>
   </component>
